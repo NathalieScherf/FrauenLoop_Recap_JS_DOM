@@ -7,3 +7,8 @@
 
 In case you need some help with these exercises, check out the other branch `domExercises` of the project. There you find a more detailed description of the tasks and a tour of the code for each task. 
 If you already have a local copy of this project, open it in your editor and download the lastest changes with `git pull` on the command line. Then you can switch to the branch with a `git checkout domExercises`. 
+
+
+
+----
+This project is created by [Nathalie Scherf](https://github.com/NathalieScherf)
